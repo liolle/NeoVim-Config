@@ -21,7 +21,7 @@ sudo apt update && \
 sudo apt install neovim
 ```
 - From github
-  ```
+  ```bash
   # Remove old Neovim (if installed)
   sudo apt remove neovim neovim-runtime -y && \
   # Install dependencies
